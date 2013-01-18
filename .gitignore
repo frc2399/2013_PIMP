@@ -1,2 +1,15 @@
 /build/
 /PIMP/build/
+
+
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# Netbeans Files#
+/*/nbproject/private/
+/*/doc/
+/*/suite/
